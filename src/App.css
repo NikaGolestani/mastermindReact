@@ -1,0 +1,65 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #f5f0e8;
+}
+h1 {
+  color: #674f04;
+  font-family: "Mystery Quest", cursive;
+}
+
+th {
+  padding: 5px;
+  border-bottom: dashed 3px #d3bd9a;
+  color: #a28f70;
+}
+td {
+  border-bottom: dashed 3px #d3bd9a;
+  color: #a00;
+}
+form {
+  background-color: #d3bd9a;
+  width: 200px;
+  display: block;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+div {
+  width: max-content;
+  display: block;
+  margin: 0 auto;
+}
+table {
+  margin-bottom: 20px;
+  font-family: "Mystery Quest", cursive;
+}
+.guessbar {
+  width: 100px;
+  background-color: rgba(128, 128, 128, 0);
+  border: hidden;
+  color: #493803;
+  font-family: "Mystery Quest", cursive;
+}
+
+.btn {
+  background-color: #674f04;
+  color: #d3bd9a;
+  border-radius: 10px;
+  position: relative;
+  right: -30px;
+  font-family: "Mystery Quest", cursive;
+}
+.True td {
+  color: #0a0;
+}
+#cb {
+  color: #a28f70;
+  text-align: center;
+  font-size: small;
+  display: block;
+  font-family: "Mystery Quest", cursive;
+  margin-top: 10px;
+}
